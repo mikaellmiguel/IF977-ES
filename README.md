@@ -30,8 +30,10 @@ O código a ser desenvolvido será organizado de acordo com a seguinte estrutura
 IF977-ES/
 │
 ├── README.md                # Documentação principal do projeto
-├── CONTRIBUTING.md           # Diretrizes para contribuição
+├── CONTRIBUTING.md          # Diretrizes para contribuição
 ├── BUILD.md                 # Instruções para compilar e construir o projeto
+│
+├── Documentos               # Documentos criados ao longo do projeto
 │
 ├── backend/                 # Código backend do projeto
 │   ├── node_modules/        # Módulos do Node.js (gerados automaticamente)
