@@ -1,8 +1,8 @@
-# Elicitação e Levantamento de Requesitos
+# Elicitação e Levantamento de Requisitos
 
 > **Observação**: Este é um levantamento inicial dos requisitos do projeto. Os requisitos podem ser ajustados ou modificados conforme o desenvolvimento do projeto avança e novas necessidades ou ajustes forem identificados.
 
-## Requesitos Funcionais
+## Requisitos Funcionais
 
 ### História 1: Listar Países do Mundo
 
@@ -12,7 +12,7 @@ Eu Gostaria de ver uma lista completa de todos os países do mundo
 Para poder pesquisá-los facilmente.
 ```
 
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Exibir uma lista com todos os países.
  - Permitir pesquisa e filtro por nome ou região.
  - Dados básicos como capital e população visíveis.
@@ -25,7 +25,7 @@ Eu gostaria de acessar informações detalhadas sobre um país
 Para aprender mais sobre ele.
 ```
 
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Mostrar dados gerais (População, Área, Idioma, Moeda, Continente ...)
  - Mostrar Estados/Províncias
  - Exibir os comentários feitos acerca do pais
@@ -37,7 +37,7 @@ Como usuário,
 Eu quero visualizar a localização de um país no mapa 
 Para entender onde ele se encontra no mundo.
 ```
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Quando o usuário seleciona um país, o mapa deve centralizar automaticamente na localização do país.
  - O mapa deve oferecer botões para aumentar e diminuir o zoom, além de suporte ao uso do scroll do mouse ou gestos de pinça.
  
@@ -49,7 +49,7 @@ Como usuário,
 Eu quero criar uma conta
 Para salvar minhas preferências e interações.
 ```
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - O sistema deve validar os campos, indicando erros como e-mail inválido.
  - Mensagens de erro claras devem ser exibidas para cada tipo de falha no formulário.
  - O cadastro da conta pode ter no máximo 2 telas.
@@ -63,7 +63,7 @@ Como usuário,
 Eu quero salvar países como favoritos
 Para acessá-los facilmente no futuro.
 ```
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Fácil acesso do botão de adicionar/remover país dos favoritos.
  - O usuário deve ser capaz de acessar facilmente a sua lista de países favoritos a partir de uma seção dedicada no perfil ou no menu principal.
  -  A lista de favoritos deve exibir o nome e a bandeira de cada país.
@@ -75,7 +75,7 @@ Como usuário,
 Eu quero comparar dois países 
 Para entender suas diferenças e semelhanças.
 ```
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Exibir os dados lado a lado 
  - Trazer dados importantes na comparação (População, Área Territorial, Idioma, Moeda, Continente ou Região geográfica)
  -  Em caso de falha ao obter informações (ex: país inválido ou erro na API), o sistema deve fornecer uma mensagem de erro clara.
@@ -86,14 +86,14 @@ Como usuário,
 Eu quero comentar sobre um país
 Para compartilhar curiosidade ou impressões com outros usuários.
 ```
-**Críterios de Aceitação**:
+**Critérios de Aceitação**:
  - Sistema de comentários por país.
  - Deve permitir que os usuários insiram texto simples e utilizem formatação básica (como negrito, itálico, listas, etc.).
  - Os Comentários devem ser exibidos em ordem cronológica.
  - Comentários com mais de 500 caracteres devem ser truncados ou exibidos com uma opção de "mostrar mais".
  - Limite máximo de 3000 caracteres em 1 comentário.
 
-## Requesitos não Funcionais
+## Requisitos não Funcionais
 
 ### Interface Intuitiva e Responsiva (Usuabilidade)
 **Critérios de aceitação**:
