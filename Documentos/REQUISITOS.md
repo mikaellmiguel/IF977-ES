@@ -100,6 +100,7 @@ Para compartilhar curiosidade ou impressões com outros usuários.
 - Design responsivo (deve se adaptar tanto a ambientes desktops quanto móveis).
 - Navegação rápida entre abas e funcionalidades.
 - Erros devem ser exibidos em linguagem clara, explicando o problema e sugerindo soluções.
+- Elementos mais importantes devem ter maior destaque visual (ex: botões principais em cores contrastantes).
 
 ### Segurança
 
@@ -108,7 +109,7 @@ Para compartilhar curiosidade ou impressões com outros usuários.
 - Ocultar a senha na digitação
 - Não permitir senhas menores que 8 caracteres.
 - Autenticação segura com APIs de login social (Google/Facebook).
-- Elementos mais importantes devem ter maior destaque visual (ex: botões principais em cores contrastantes).
+
 
 ### Compatibilidade
 **Critérios de aceitação**:
