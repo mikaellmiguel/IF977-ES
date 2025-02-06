@@ -5,8 +5,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Geomundo", "Engenharia de Software", "Backend"],
+  "keywords": [
+    "Geomundo",
+    "Engenharia de Software",
+    "Backend"
+  ],
   "author": "",
   "license": "ISC",
-  "description": "Backend do Projeto GeoMundo da Disciplina de Engenharia de Software"
+  "description": "Backend do Projeto GeoMundo da Disciplina de Engenharia de Software",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
