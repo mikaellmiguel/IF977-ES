@@ -1,4 +1,4 @@
-const {hash} = require('bcryptjs');
+const {hash, compare} = require('bcryptjs');
 const AppError = require('../utils/AppError');
 const knex = require('../database/knex');
 
@@ -53,6 +53,31 @@ class UsersController {
         }
 
         await knex('users').where('id', id).update(user);
+        return response.status(200).json();
+    }
+
+    async delete(request, response) {
+        const {password} = request.body;
+        const {id} = request.user;
+
+        if(!password) {
+            throw new AppError("Senha não informada");
+        }
+
+        const user = await knex('users').where('id', id).first();
+
+        if(!user) {
+            throw new AppError("Usuário não encontrado");
+        }
+
+        const checkPasswordMatch = await compare(password, user.password);
+        
+        if(!checkPasswordMatch) {
+            throw new AppError("Permissão Negada: Senha Incorreta", 401);
+        }
+
+        await knex('users').where('id', id).delete();
+
         return response.status(200).json();
     }
 
