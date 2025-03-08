@@ -8,7 +8,4 @@ module.exports = async function runMigrations() {
     catch (error) {
         console.error('Erro ao executar as migrations:', error);
     }
-    finally {
-        await knex.destroy();
-    }
 }
