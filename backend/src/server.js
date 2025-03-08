@@ -1,7 +1,10 @@
-const express = require('express');
 require('dotenv').config();
+require("express-async-errors");
+
+const express = require('express');
 const runMigrations = require('./utils/runMigrations');
 const routes = require('./routes');
+const AppError = require('./utils/AppError');
 
 // Criação das Tabelas no Banco de Dados
 runMigrations();
@@ -25,7 +28,7 @@ app.use((error, request, response, next) => {
       status: "error",
       message: "Internal Server Error"
   })
-})
+});
 
 const SERVER_PORT = process.env.SERVER_PORT || 5000;
 
