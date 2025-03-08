@@ -1,9 +1,9 @@
 const {Router} = require('express');
+const SessionsController = require('../controllers/SessionsController');
 
+const sessionsController = new SessionsController();
 const sessionsRouter = Router();
 
-sessionsRouter.post('/', (request, response) => {
-  return response.json({message: "Rota de sessões"});
-});
+sessionsRouter.post('/', sessionsController.create);
 
 module.exports = sessionsRouter;
