@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <GlobalStyles />
-    <ToastContainer position='top-center'/>
+    <ToastContainer position='top-center' toastStyle={{ width: "35rem", fontSize: "1rem", padding: "1.5rem", fontFamily: "Poppins"}}/>
     <AuthProvider>
         <Routes />
     </AuthProvider>
