@@ -5,8 +5,11 @@ import { useState } from "react";
 import { useAuth } from "../../hooks/auth";
 import { toast } from "react-toastify";
 import { validarEmail } from "../../utils/validarEmail";
+import { useNavigate } from "react-router-dom";
 
 export function SignIn() {
+
+    const navigate = useNavigate();
     
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -39,7 +42,7 @@ export function SignIn() {
                 </Form>
                 <Buttons>
                         <Button onClick={() => handleSignIn()}>Entrar</Button>
-                        <Button>Cadastrar-se</Button>
+                        <Button onClick={() => navigate("/register")}>Cadastrar-se</Button>
                 </Buttons>
             </Left>
             <Img></Img>
