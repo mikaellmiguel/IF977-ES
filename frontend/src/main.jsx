@@ -1,17 +1,15 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { Homepage } from './pages/Homepage'
 import { GlobalStyles } from './styles/global'
-import { LandingPage } from './pages/LandingPage'
 import { AuthProvider } from './hooks/auth'
-import { SignIn } from './pages/SignIn'
-import { SignUp } from './pages/SignUp'
+import { Routes } from './routes'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <GlobalStyles />
     <AuthProvider>
-        <SignUp />
+        <Routes />
     </AuthProvider>
   </StrictMode>,
 )
