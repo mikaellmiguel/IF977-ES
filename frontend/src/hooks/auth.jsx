@@ -1,8 +1,6 @@
 /* eslint-disable react-refresh/only-export-components */
-import { createContext, useState, useEffect } from "react";
+import { createContext, useContext, useState, useEffect } from "react";
 import { api } from "../services/api";
-
-
 
 export const AuthContext = createContext({})
 
@@ -44,7 +42,7 @@ function AuthProvider({children}) {
         
         api.defaults.headers.common['Authorization'] = `Bearer ${token}`
         setData({ token, user })
-    }, [])
+    }, [])     
 
     return(
         <AuthContext.Provider value={{
@@ -54,4 +52,13 @@ function AuthProvider({children}) {
             {children}
         </AuthContext.Provider>
     )
+
 }
+
+function useAuth() {
+    const context = useContext(AuthContext);
+    return context;
+}
+
+
+export {AuthProvider, useAuth}
