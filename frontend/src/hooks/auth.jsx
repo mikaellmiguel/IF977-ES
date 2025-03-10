@@ -1,5 +1,5 @@
 /* eslint-disable react-refresh/only-export-components */
-import { createContext, useState } from "react";
+import { createContext, useState, useEffect } from "react";
 import { api } from "../services/api";
 
 
@@ -37,6 +37,14 @@ function AuthProvider({children}) {
         localStorage.removeItem("@Geomundo:user");
         setData({});
     }
+
+    useEffect(() => {
+        const token = localStorage.getItem('@Geomundo:token')
+        const user = JSON.parse(localStorage.getItem('@Geomundo:user'))
+        
+        api.defaults.headers.common['Authorization'] = `Bearer ${token}`
+        setData({ token, user })
+    }, [])
 
     return(
         <AuthContext.Provider value={{
