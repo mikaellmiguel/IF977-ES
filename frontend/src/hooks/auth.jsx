@@ -1,6 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import { createContext, useContext, useState, useEffect } from "react";
 import { api } from "../services/api";
+import { toast } from "react-toastify";
 
 export const AuthContext = createContext({})
 
@@ -19,13 +20,14 @@ function AuthProvider({children}) {
 
             api.defaults.headers.authorization = `Bearer ${token}`;
             setData({user, token});
+            console.log(user);
         }
         catch(error){
             if(error.response) {
-                alert(error.response.data.message);
+                toast.error(error.response.data.message);
             }
             else{
-                alert("Não foi possível realizar o login");
+                toast.error("Erro ao realizar login, tente novamente mais tarde");
             }
         }
     }
