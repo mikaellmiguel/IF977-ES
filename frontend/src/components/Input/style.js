@@ -6,19 +6,22 @@ export const Container = styled.div`
   flex-direction: column;
 
   label {
-    color: ${theme.COLORS.TX_800};
+    color: ${theme.COLORS.BG_700};
     margin-bottom: 0.5rem;
     font-weight: bold;
+    font-size: 1rem;
   }
 
   input {
-    border: 2px solid ${theme.COLORS.BG_500};
+    background-color: ${theme.COLORS.BG_50};
+    border: 2px solid ${theme.COLORS.BG_400};
     color: ${theme.COLORS.BG_800};
     border-radius: 8px;
     padding: 0.5rem;
+    font-size: 1rem;
 
     &::placeholder {
-      color: #BBBBBB;
+      color: ${theme.COLORS.BG_400};
     }
   }
 `;	
