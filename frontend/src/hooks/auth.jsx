@@ -32,9 +32,16 @@ function AuthProvider({children}) {
         }
     }
 
+    function signOut() {
+        localStorage.removeItem("@Geomundo:token");
+        localStorage.removeItem("@Geomundo:user");
+        setData({});
+    }
+
     return(
         <AuthContext.Provider value={{
             signIn,
+            signOut,
             user:data.user}}>
             {children}
         </AuthContext.Provider>
