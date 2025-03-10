@@ -5,11 +5,13 @@ const express = require('express');
 const runMigrations = require('./utils/runMigrations');
 const routes = require('./routes');
 const AppError = require('./utils/AppError');
+const cors = require('cors');
 
 // Criação das Tabelas no Banco de Dados
 runMigrations();
 
 const app = express();
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 

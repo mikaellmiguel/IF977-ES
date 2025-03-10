@@ -29,7 +29,7 @@ class SessionsController {
         });
 
 
-        return response.json({token});
+        return response.json({token, user});
     }
 }
 
