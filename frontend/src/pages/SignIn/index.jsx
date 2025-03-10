@@ -3,6 +3,8 @@ import { Input } from "../../components/Input";
 import { Container, Form, Left, Img, Buttons} from "./styles";
 import { useState } from "react";
 import { useAuth } from "../../hooks/auth";
+import { toast } from "react-toastify";
+import { validarEmail } from "../../utils/validarEmail";
 
 export function SignIn() {
     
@@ -12,6 +14,16 @@ export function SignIn() {
     const {signIn} = useAuth();
 
     function handleSignIn(){
+
+        if (email === "" || password === "") {
+            toast.error("Preencha todos os campos");
+            return;
+        }
+
+        if(validarEmail(email) === false) {
+            toast.error("E-mail inválido");
+            return;
+        }
         signIn({email, password})
     }
     
