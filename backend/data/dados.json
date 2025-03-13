@@ -1,0 +1,5479 @@
+[
+  {
+    "name": "Afeganistão",
+    "ccn3": "004",
+    "capital": "Kabul",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/303427",
+    "area": 652230,
+    "population": 40218234,
+    "continents": "Ásia",
+    "timezones": "UTC+04:30",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "currency": {
+      "AFN": {
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    },
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    }
+  },
+  {
+    "name": "África do Sul",
+    "ccn3": "710",
+    "capital": "Pretoria",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/87565",
+    "area": 1221037,
+    "population": 59308690,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/za.svg",
+    "currency": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    }
+  },
+  {
+    "name": "Alândia",
+    "ccn3": "248",
+    "capital": "Mariehamn",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1650407",
+    "area": 1580,
+    "population": 29458,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ax.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "swe": "Swedish"
+    }
+  },
+  {
+    "name": "Albânia",
+    "ccn3": "008",
+    "capital": "Tirana",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/53292",
+    "area": 28748,
+    "population": 2837743,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/al.svg",
+    "currency": {
+      "ALL": {
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    },
+    "languages": {
+      "sqi": "Albanian"
+    }
+  },
+  {
+    "name": "Alemanha",
+    "ccn3": "276",
+    "capital": "Berlin",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/51477",
+    "area": 357114,
+    "population": 83240525,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/de.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "name": "Andorra",
+    "ccn3": "020",
+    "capital": "Andorra la Vella",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/9407",
+    "area": 468,
+    "population": 77265,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ad.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "cat": "Catalan"
+    }
+  },
+  {
+    "name": "Angola",
+    "ccn3": "024",
+    "capital": "Luanda",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195267",
+    "area": 1246700,
+    "population": 32866268,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ao.svg",
+    "currency": {
+      "AOA": {
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "Anguilla",
+    "ccn3": "660",
+    "capital": "The Valley",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/2177161",
+    "area": 91,
+    "population": 13452,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/ai.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Antártida",
+    "ccn3": "010",
+    "capital": "None",
+    "region": "Antártico",
+    "map": "https://www.openstreetmap.org/node/36966060",
+    "area": 14000000,
+    "population": 1000,
+    "continents": "Antártica",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/aq.svg"
+  },
+  {
+    "name": "Antígua e Barbuda",
+    "ccn3": "028",
+    "capital": "Saint John's",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/536900",
+    "area": 442,
+    "population": 97928,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/ag.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Arábia Saudita",
+    "ccn3": "682",
+    "capital": "Riyadh",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/307584",
+    "area": 2149690,
+    "population": 34813867,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/sa.svg",
+    "currency": {
+      "SAR": {
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Argélia",
+    "ccn3": "012",
+    "capital": "Algiers",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192756",
+    "area": 2381741,
+    "population": 44700000,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/dz.svg",
+    "currency": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Argentina",
+    "ccn3": "032",
+    "capital": "Buenos Aires",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/286393",
+    "area": 2780400,
+    "population": 45376763,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/ar.svg",
+    "currency": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Arménia",
+    "ccn3": "051",
+    "capital": "Yerevan",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/364066",
+    "area": 29743,
+    "population": 2963234,
+    "continents": "Ásia",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/am.svg",
+    "currency": {
+      "AMD": {
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    },
+    "languages": {
+      "hye": "Armenian"
+    }
+  },
+  {
+    "name": "Aruba",
+    "ccn3": "533",
+    "capital": "Oranjestad",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1231749",
+    "area": 180,
+    "population": 106766,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/aw.svg",
+    "currency": {
+      "AWG": {
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    },
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    }
+  },
+  {
+    "name": "Austrália",
+    "ccn3": "036",
+    "capital": "Canberra",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/80500",
+    "area": 7692024,
+    "population": 25687041,
+    "continents": "Oceânia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/au.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Áustria",
+    "ccn3": "040",
+    "capital": "Vienna",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/16239",
+    "area": 83871,
+    "population": 8917205,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/at.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "de": "German"
+    }
+  },
+  {
+    "name": "Azerbeijão",
+    "ccn3": "031",
+    "capital": "Baku",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/364110",
+    "area": 86600,
+    "population": 10110116,
+    "continents": "Europa",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/az.svg",
+    "currency": {
+      "AZN": {
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    },
+    "languages": {
+      "aze": "Azerbaijani"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "ccn3": "044",
+    "capital": "Nassau",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/547469",
+    "area": 13943,
+    "population": 393248,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/bs.svg",
+    "currency": {
+      "BSD": {
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Bahrein",
+    "ccn3": "048",
+    "capital": "Manama",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/378734",
+    "area": 765,
+    "population": 1701583,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/bh.svg",
+    "currency": {
+      "BHD": {
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "ccn3": "050",
+    "capital": "Dhaka",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184640",
+    "area": 147570,
+    "population": 164689383,
+    "continents": "Ásia",
+    "timezones": "UTC+06:00",
+    "flag": "https://flagcdn.com/bd.svg",
+    "currency": {
+      "BDT": {
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    },
+    "languages": {
+      "ben": "Bengali"
+    }
+  },
+  {
+    "name": "Barbados",
+    "ccn3": "052",
+    "capital": "Bridgetown",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/547511",
+    "area": 430,
+    "population": 287371,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/bb.svg",
+    "currency": {
+      "BBD": {
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Bélgica",
+    "ccn3": "056",
+    "capital": "Brussels",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/52411",
+    "area": 30528,
+    "population": 11555997,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/be.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    }
+  },
+  {
+    "name": "Belize",
+    "ccn3": "084",
+    "capital": "Belmopan",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287827",
+    "area": 22966,
+    "population": 397621,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/bz.svg",
+    "currency": {
+      "BZD": {
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Benin",
+    "ccn3": "204",
+    "capital": "Porto-Novo",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192784",
+    "area": 112622,
+    "population": 12123198,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/bj.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Bermudas",
+    "ccn3": "060",
+    "capital": "Hamilton",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1993208",
+    "area": 54,
+    "population": 63903,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/bm.svg",
+    "currency": {
+      "BMD": {
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Bielorússia",
+    "ccn3": "112",
+    "capital": "Minsk",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/59065",
+    "area": 207600,
+    "population": 9398861,
+    "continents": "Europa",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/by.svg",
+    "currency": {
+      "BYN": {
+        "name": "Belarusian ruble",
+        "symbol": "Br"
+      }
+    },
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": "Bolívia",
+    "ccn3": "068",
+    "capital": "Sucre",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/252645",
+    "area": 1098581,
+    "population": 11673029,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/bo.svg",
+    "currency": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Bósnia e Herzegovina",
+    "ccn3": "070",
+    "capital": "Sarajevo",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/2528142",
+    "area": 51209,
+    "population": 3280815,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ba.svg",
+    "currency": {
+      "BAM": {
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM"
+      }
+    },
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    }
+  },
+  {
+    "name": "Botswana",
+    "ccn3": "072",
+    "capital": "Gaborone",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1889339",
+    "area": 582000,
+    "population": 2351625,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/bw.svg",
+    "currency": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    }
+  },
+  {
+    "name": "Brasil",
+    "ccn3": "076",
+    "capital": "Brasília",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/59470",
+    "area": 8515767,
+    "population": 212559409,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/br.svg",
+    "currency": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "Brunei",
+    "ccn3": "096",
+    "capital": "Bandar Seri Begawan",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/2103120",
+    "area": 5765,
+    "population": 437483,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/bn.svg",
+    "currency": {
+      "BND": {
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "msa": "Malay"
+    }
+  },
+  {
+    "name": "Bulgária",
+    "ccn3": "100",
+    "capital": "Sofia",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/186382",
+    "area": 110879,
+    "population": 6927288,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/bg.svg",
+    "currency": {
+      "BGN": {
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    },
+    "languages": {
+      "bul": "Bulgarian"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "ccn3": "854",
+    "capital": "Ouagadougou",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192783",
+    "area": 272967,
+    "population": 20903278,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/bf.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Burundi",
+    "ccn3": "108",
+    "capital": "Gitega",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195269",
+    "area": 27834,
+    "population": 11890781,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/bi.svg",
+    "currency": {
+      "BIF": {
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    }
+  },
+  {
+    "name": "Butão",
+    "ccn3": "064",
+    "capital": "Thimphu",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184629",
+    "area": 38394,
+    "population": 771612,
+    "continents": "Ásia",
+    "timezones": "UTC+06:00",
+    "flag": "https://flagcdn.com/bt.svg",
+    "currency": {
+      "BTN": {
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "languages": {
+      "dzo": "Dzongkha"
+    }
+  },
+  {
+    "name": "Cabo Verde",
+    "ccn3": "132",
+    "capital": "Praia",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/535774",
+    "area": 4033,
+    "population": 555988,
+    "continents": "África",
+    "timezones": "UTC-01:00",
+    "flag": "https://flagcdn.com/cv.svg",
+    "currency": {
+      "CVE": {
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "Camarões",
+    "ccn3": "120",
+    "capital": "Yaoundé",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192830",
+    "area": 475442,
+    "population": 26545864,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/cm.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Camboja",
+    "ccn3": "116",
+    "capital": "Phnom Penh",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/49898",
+    "area": 181035,
+    "population": 16718971,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/kh.svg",
+    "currency": {
+      "KHR": {
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "khm": "Khmer"
+    }
+  },
+  {
+    "name": "Canadá",
+    "ccn3": "124",
+    "capital": "Ottawa",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1428125",
+    "area": 9984670,
+    "population": 38005238,
+    "continents": "América do Norte",
+    "timezones": "UTC-08:00",
+    "flag": "https://flagcdn.com/ca.svg",
+    "currency": {
+      "CAD": {
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Catar",
+    "ccn3": "634",
+    "capital": "Doha",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/305095",
+    "area": 11586,
+    "population": 2881060,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/qa.svg",
+    "currency": {
+      "QAR": {
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Cazaquistão",
+    "ccn3": "398",
+    "capital": "Nur-Sultan",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/214665",
+    "area": 2724900,
+    "population": 18754440,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/kz.svg",
+    "currency": {
+      "KZT": {
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    },
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": "Chade",
+    "ccn3": "148",
+    "capital": "N'Djamena",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/2361304",
+    "area": 1284000,
+    "population": 16425859,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/td.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Chéquia",
+    "ccn3": "203",
+    "capital": "Prague",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/51684",
+    "area": 78865,
+    "population": 10698896,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/cz.svg",
+    "currency": {
+      "CZK": {
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    },
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    }
+  },
+  {
+    "name": "Chile",
+    "ccn3": "152",
+    "capital": "Santiago",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/167454",
+    "area": 756102,
+    "population": 19116209,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/cl.svg",
+    "currency": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "China",
+    "ccn3": "156",
+    "capital": "Beijing",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/270056",
+    "area": 9706961,
+    "population": 1402112000,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/cn.svg",
+    "currency": {
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    },
+    "languages": {
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": "Chipre",
+    "ccn3": "196",
+    "capital": "Nicosia",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/307787",
+    "area": 9251,
+    "population": 1207361,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/cy.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    }
+  },
+  {
+    "name": "Cidade do Vaticano",
+    "ccn3": "336",
+    "capital": "Vatican City",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/36989",
+    "area": 0.44,
+    "population": 451,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/va.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    }
+  },
+  {
+    "name": "Colômbia",
+    "ccn3": "170",
+    "capital": "Bogotá",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/120027",
+    "area": 1141748,
+    "population": 50882884,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/co.svg",
+    "currency": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Comores",
+    "ccn3": "174",
+    "capital": "Moroni",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/535790",
+    "area": 1862,
+    "population": 869595,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/km.svg",
+    "currency": {
+      "KMF": {
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    }
+  },
+  {
+    "name": "Congo",
+    "ccn3": "178",
+    "capital": "Brazzaville",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192794",
+    "area": 342000,
+    "population": 5657000,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/cg.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    }
+  },
+  {
+    "name": "Coreia do Norte",
+    "ccn3": "408",
+    "capital": "Pyongyang",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/192734",
+    "area": 120538,
+    "population": 25778815,
+    "continents": "Ásia",
+    "timezones": "UTC+09:00",
+    "flag": "https://flagcdn.com/kp.svg",
+    "currency": {
+      "KPW": {
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    },
+    "languages": {
+      "kor": "Korean"
+    }
+  },
+  {
+    "name": "Coreia do Sul",
+    "ccn3": "410",
+    "capital": "Seoul",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/307756",
+    "area": 100210,
+    "population": 51780579,
+    "continents": "Ásia",
+    "timezones": "UTC+09:00",
+    "flag": "https://flagcdn.com/kr.svg",
+    "currency": {
+      "KRW": {
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    },
+    "languages": {
+      "kor": "Korean"
+    }
+  },
+  {
+    "name": "Costa do Marfim",
+    "ccn3": "384",
+    "capital": "Yamoussoukro",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192779",
+    "area": 322463,
+    "population": 26378275,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/ci.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "ccn3": "188",
+    "capital": "San José",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287667",
+    "area": 51100,
+    "population": 5094114,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/cr.svg",
+    "currency": {
+      "CRC": {
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Croácia",
+    "ccn3": "191",
+    "capital": "Zagreb",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/214885",
+    "area": 56594,
+    "population": 4047200,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/hr.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "hrv": "Croatian"
+    }
+  },
+  {
+    "name": "Cuba",
+    "ccn3": "192",
+    "capital": "Havana",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/307833",
+    "area": 109884,
+    "population": 11326616,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/cu.svg",
+    "currency": {
+      "CUC": {
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      "CUP": {
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Dinamarca",
+    "ccn3": "208",
+    "capital": "Copenhagen",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/50046",
+    "area": 43094,
+    "population": 5831404,
+    "continents": "Europa",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/dk.svg",
+    "currency": {
+      "DKK": {
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "dan": "Danish"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "ccn3": "262",
+    "capital": "Djibouti",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192801",
+    "area": 23200,
+    "population": 988002,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/dj.svg",
+    "currency": {
+      "DJF": {
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Dominica",
+    "ccn3": "212",
+    "capital": "Roseau",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/307823",
+    "area": 751,
+    "population": 71991,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/dm.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Egito",
+    "ccn3": "818",
+    "capital": "Cairo",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1473947",
+    "area": 1002450,
+    "population": 102334403,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/eg.svg",
+    "currency": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "ccn3": "222",
+    "capital": "San Salvador",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1520612",
+    "area": 21041,
+    "population": 6486201,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/sv.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Emirados Árabes Unidos",
+    "ccn3": "784",
+    "capital": "Abu Dhabi",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/307763",
+    "area": 83600,
+    "population": 9890400,
+    "continents": "Ásia",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/ae.svg",
+    "currency": {
+      "AED": {
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Equador",
+    "ccn3": "218",
+    "capital": "Quito",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/108089",
+    "area": 276841,
+    "population": 17643060,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/ec.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Eritreia",
+    "ccn3": "232",
+    "capital": "Asmara",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/296961",
+    "area": 117600,
+    "population": 5352000,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/er.svg",
+    "currency": {
+      "ERN": {
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    }
+  },
+  {
+    "name": "Eslováquia",
+    "ccn3": "703",
+    "capital": "Bratislava",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/14296",
+    "area": 49037,
+    "population": 5458827,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/sk.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "slk": "Slovak"
+    }
+  },
+  {
+    "name": "Eslovénia",
+    "ccn3": "705",
+    "capital": "Ljubljana",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/218657",
+    "area": 20273,
+    "population": 2100126,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/si.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "slv": "Slovene"
+    }
+  },
+  {
+    "name": "Espanha",
+    "ccn3": "724",
+    "capital": "Madrid",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1311341",
+    "area": 505992,
+    "population": 47351567,
+    "continents": "Europa",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/es.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    }
+  },
+  {
+    "name": "Estados Unidos",
+    "ccn3": "840",
+    "capital": "Washington, D.C.",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8",
+    "area": 9372610,
+    "population": 329484123,
+    "continents": "América do Norte",
+    "timezones": "UTC-12:00",
+    "flag": "https://flagcdn.com/us.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Estónia",
+    "ccn3": "233",
+    "capital": "Tallinn",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/79510",
+    "area": 45227,
+    "population": 1331057,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ee.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "est": "Estonian"
+    }
+  },
+  {
+    "name": "Etiópia",
+    "ccn3": "231",
+    "capital": "Addis Ababa",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192800",
+    "area": 1104300,
+    "population": 114963583,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/et.svg",
+    "currency": {
+      "ETB": {
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    },
+    "languages": {
+      "amh": "Amharic"
+    }
+  },
+  {
+    "name": "Fiji",
+    "ccn3": "242",
+    "capital": "Suva",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571747",
+    "area": 18272,
+    "population": 896444,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/fj.svg",
+    "currency": {
+      "FJD": {
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    }
+  },
+  {
+    "name": "Filipinas",
+    "ccn3": "608",
+    "capital": "Manila",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/443174",
+    "area": 342353,
+    "population": 109581085,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/ph.svg",
+    "currency": {
+      "PHP": {
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    }
+  },
+  {
+    "name": "Finlândia",
+    "ccn3": "246",
+    "capital": "Helsinki",
+    "region": "Europa",
+    "map": "openstreetmap.org/relation/54224",
+    "area": 338424,
+    "population": 5530719,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/fi.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    }
+  },
+  {
+    "name": "França",
+    "ccn3": "250",
+    "capital": "Paris",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1403916",
+    "area": 551695,
+    "population": 67391582,
+    "continents": "Europa",
+    "timezones": "UTC-10:00",
+    "flag": "https://flagcdn.com/fr.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Gabão",
+    "ccn3": "266",
+    "capital": "Libreville",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192793",
+    "area": 267668,
+    "population": 2225728,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ga.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Gâmbia",
+    "ccn3": "270",
+    "capital": "Banjul",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192774",
+    "area": 10689,
+    "population": 2416664,
+    "continents": "África",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/gm.svg",
+    "currency": {
+      "GMD": {
+        "name": "dalasi",
+        "symbol": "D"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Gana",
+    "ccn3": "288",
+    "capital": "Accra",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192781",
+    "area": 238533,
+    "population": 31072945,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/gh.svg",
+    "currency": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Geórgia",
+    "ccn3": "268",
+    "capital": "Tbilisi",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/28699",
+    "area": 69700,
+    "population": 3714000,
+    "continents": "Ásia",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/ge.svg",
+    "currency": {
+      "GEL": {
+        "name": "lari",
+        "symbol": "₾"
+      }
+    },
+    "languages": {
+      "kat": "Georgian"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "ccn3": "292",
+    "capital": "Gibraltar",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1278736",
+    "area": 6,
+    "population": 33691,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/gi.svg",
+    "currency": {
+      "GIP": {
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Granada",
+    "ccn3": "308",
+    "capital": "St. George's",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/550727",
+    "area": 344,
+    "population": 112519,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/gd.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Grécia",
+    "ccn3": "300",
+    "capital": "Athens",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/192307",
+    "area": 131990,
+    "population": 10715549,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/gr.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "ell": "Greek"
+    }
+  },
+  {
+    "name": "Gronelândia",
+    "ccn3": "304",
+    "capital": "Nuuk",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/2184073",
+    "area": 2166086,
+    "population": 56367,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/gl.svg",
+    "currency": {
+      "DKK": {
+        "name": "krone",
+        "symbol": "kr."
+      }
+    },
+    "languages": {
+      "kal": "Greenlandic"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "ccn3": "312",
+    "capital": "Basse-Terre",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/7109289",
+    "area": 1628,
+    "population": 400132,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/gp.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Guam",
+    "ccn3": "316",
+    "capital": "Hagåtña",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/306001",
+    "area": 549,
+    "population": 168783,
+    "continents": "Oceânia",
+    "timezones": "UTC+10:00",
+    "flag": "https://flagcdn.com/gu.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "cha": "Chamorro",
+      "eng": "English",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Guatemala",
+    "ccn3": "320",
+    "capital": "Guatemala City",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1521463",
+    "area": 108889,
+    "population": 16858333,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/gt.svg",
+    "currency": {
+      "GTQ": {
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Guernsey",
+    "ccn3": "831",
+    "capital": "St. Peter Port",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/270009",
+    "area": 78,
+    "population": 62999,
+    "continents": "Europa",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/gg.svg",
+    "currency": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "GGP": {
+        "name": "Guernsey pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nfr": "Guernésiais"
+    }
+  },
+  {
+    "name": "Guiana",
+    "ccn3": "328",
+    "capital": "Georgetown",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287083",
+    "area": 214969,
+    "population": 786559,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/gy.svg",
+    "currency": {
+      "GYD": {
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Guiana Francesa",
+    "ccn3": "254",
+    "capital": "Cayenne",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/2502058",
+    "area": 83534,
+    "population": 254541,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/gf.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Guiné",
+    "ccn3": "324",
+    "capital": "Conakry",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192778",
+    "area": 245857,
+    "population": 13132792,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/gn.svg",
+    "currency": {
+      "GNF": {
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Guiné Equatorial",
+    "ccn3": "226",
+    "capital": "Malabo",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192791",
+    "area": 28051,
+    "population": 1402985,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/gq.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Guiné-Bissau",
+    "ccn3": "624",
+    "capital": "Bissau",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192776",
+    "area": 36125,
+    "population": 1967998,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/gw.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    }
+  },
+  {
+    "name": "Haiti",
+    "ccn3": "332",
+    "capital": "Port-au-Prince",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/307829",
+    "area": 27750,
+    "population": 11402533,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/ht.svg",
+    "currency": {
+      "HTG": {
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    }
+  },
+  {
+    "name": "Holanda",
+    "ccn3": "528",
+    "capital": "Amsterdam",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/47796",
+    "area": 41850,
+    "population": 16655799,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/nl.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "nld": "Dutch"
+    }
+  },
+  {
+    "name": "Honduras",
+    "ccn3": "340",
+    "capital": "Tegucigalpa",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287670",
+    "area": 112492,
+    "population": 9904608,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/hn.svg",
+    "currency": {
+      "HNL": {
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "ccn3": "344",
+    "capital": "City of Victoria",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/913110",
+    "area": 1104,
+    "population": 7500700,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/hk.svg",
+    "currency": {
+      "HKD": {
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": "Hungria",
+    "ccn3": "348",
+    "capital": "Budapest",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/21335",
+    "area": 93028,
+    "population": 9749763,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/hu.svg",
+    "currency": {
+      "HUF": {
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    },
+    "languages": {
+      "hun": "Hungarian"
+    }
+  },
+  {
+    "name": "Iémen",
+    "ccn3": "887",
+    "capital": "Sana'a",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/305092",
+    "area": 527968,
+    "population": 29825968,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/ye.svg",
+    "currency": {
+      "YER": {
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Ilha Bouvet",
+    "ccn3": "074",
+    "capital": "None",
+    "region": "Antártico",
+    "map": "https://www.openstreetmap.org/way/174996681",
+    "area": 49,
+    "population": 0,
+    "continents": "Antártica",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/bv.svg",
+    "languages": {
+      "nor": "Norwegian"
+    }
+  },
+  {
+    "name": "ilha da Curação",
+    "ccn3": "531",
+    "capital": "Willemstad",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1216719",
+    "area": 444,
+    "population": 155014,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/cw.svg",
+    "currency": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    }
+  },
+  {
+    "name": "Ilha de Man",
+    "ccn3": "833",
+    "capital": "Douglas",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/62269",
+    "area": 572,
+    "population": 85032,
+    "continents": "Europa",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/im.svg",
+    "currency": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "IMP": {
+        "name": "Manx pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "glv": "Manx"
+    }
+  },
+  {
+    "name": "Ilha do Natal",
+    "ccn3": "162",
+    "capital": "Flying Fish Cove",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/6365444",
+    "area": 135,
+    "population": 2072,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/cx.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilha Formosa",
+    "ccn3": "158",
+    "capital": "Taipei",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/449220",
+    "area": 36193,
+    "population": 23503349,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/tw.svg",
+    "currency": {
+      "TWD": {
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": "Ilha Heard e Ilhas McDonald",
+    "ccn3": "334",
+    "capital": "None",
+    "region": "Antártico",
+    "map": "https://www.openstreetmap.org/relation/2177227",
+    "area": 412,
+    "population": 0,
+    "continents": "Antártica",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/hm.svg",
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilha Norfolk",
+    "ccn3": "574",
+    "capital": "Kingston",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2574988",
+    "area": 36,
+    "population": 2302,
+    "continents": "Oceânia",
+    "timezones": "UTC+11:30",
+    "flag": "https://flagcdn.com/nf.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "pih": "Norfuk"
+    }
+  },
+  {
+    "name": "Ilhas Caimão",
+    "ccn3": "136",
+    "capital": "George Town",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/7269765",
+    "area": 264,
+    "population": 65720,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/ky.svg",
+    "currency": {
+      "KYD": {
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Cocos (Keeling)",
+    "ccn3": "166",
+    "capital": "West Island",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/82636",
+    "area": 14,
+    "population": 544,
+    "continents": "Ásia",
+    "timezones": "UTC+06:30",
+    "flag": "https://flagcdn.com/cc.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Cook",
+    "ccn3": "184",
+    "capital": "Avarua",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2184233",
+    "area": 236,
+    "population": 18100,
+    "continents": "Oceânia",
+    "timezones": "UTC-10:00",
+    "flag": "https://flagcdn.com/ck.svg",
+    "currency": {
+      "CKD": {
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      },
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "rar": "Cook Islands Māori"
+    }
+  },
+  {
+    "name": "Ilhas Faroé",
+    "ccn3": "234",
+    "capital": "Tórshavn",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/52939",
+    "area": 1393,
+    "population": 48865,
+    "continents": "Europa",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/fo.svg",
+    "currency": {
+      "DKK": {
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      "FOK": {
+        "name": "Faroese króna",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "dan": "Danish",
+      "fao": "Faroese"
+    }
+  },
+  {
+    "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
+    "ccn3": "239",
+    "capital": "King Edward Point",
+    "region": "Antártico",
+    "map": "https://www.openstreetmap.org/relation/1983629",
+    "area": 3903,
+    "population": 30,
+    "continents": "Antártica",
+    "timezones": "UTC-02:00",
+    "flag": "https://flagcdn.com/gs.svg",
+    "currency": {
+      "SHP": {
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Malvinas",
+    "ccn3": "238",
+    "capital": "Stanley",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/2185374",
+    "area": 12173,
+    "population": 2563,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/fk.svg",
+    "currency": {
+      "FKP": {
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Marshall",
+    "ccn3": "584",
+    "capital": "Majuro",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571771",
+    "area": 181,
+    "population": 59194,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/mh.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    }
+  },
+  {
+    "name": "Ilhas Menores Distantes dos Estados Unidos",
+    "ccn3": "581",
+    "capital": "Washington DC",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/6430384",
+    "area": 34.2,
+    "population": 300,
+    "continents": "Oceânia",
+    "timezones": "UTC-11:00",
+    "flag": "https://flagcdn.com/um.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Pitcairn",
+    "ccn3": "612",
+    "capital": "Adamstown",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2185375",
+    "area": 47,
+    "population": 56,
+    "continents": "Oceânia",
+    "timezones": "UTC-08:00",
+    "flag": "https://flagcdn.com/pn.svg",
+    "currency": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Salomão",
+    "ccn3": "090",
+    "capital": "Honiara",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/1857436",
+    "area": 28896,
+    "population": 686878,
+    "continents": "Oceânia",
+    "timezones": "UTC+11:00",
+    "flag": "https://flagcdn.com/sb.svg",
+    "currency": {
+      "SBD": {
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Svalbard e Jan Mayen",
+    "ccn3": "744",
+    "capital": "Longyearbyen",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1337397",
+    "area": 61399,
+    "population": 2562,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/sj.svg",
+    "currency": {
+      "NOK": {
+        "name": "krone",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "nor": "Norwegian"
+    }
+  },
+  {
+    "name": "Ilhas Turks e Caicos",
+    "ccn3": "796",
+    "capital": "Cockburn Town",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/547479",
+    "area": 948,
+    "population": 38718,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/tc.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Virgens",
+    "ccn3": "092",
+    "capital": "Road Town",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/285454",
+    "area": 151,
+    "population": 30237,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/vg.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Ilhas Virgens dos Estados Unidos",
+    "ccn3": "850",
+    "capital": "Charlotte Amalie",
+    "region": "Américas",
+    "map": "openstreetmap.org/relation/286898",
+    "area": 347,
+    "population": 106290,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/vi.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Índia",
+    "ccn3": "356",
+    "capital": "New Delhi",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/304716",
+    "area": 3287590,
+    "population": 1380004385,
+    "continents": "Ásia",
+    "timezones": "UTC+05:30",
+    "flag": "https://flagcdn.com/in.svg",
+    "currency": {
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "name": "Indonésia",
+    "ccn3": "360",
+    "capital": "Jakarta",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/21335",
+    "area": 1904569,
+    "population": 273523621,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/id.svg",
+    "currency": {
+      "IDR": {
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    },
+    "languages": {
+      "ind": "Indonesian"
+    }
+  },
+  {
+    "name": "Irão",
+    "ccn3": "364",
+    "capital": "Tehran",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/304938",
+    "area": 1648195,
+    "population": 83992953,
+    "continents": "Ásia",
+    "timezones": "UTC+03:30",
+    "flag": "https://flagcdn.com/ir.svg",
+    "currency": {
+      "IRR": {
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    },
+    "languages": {
+      "fas": "Persian (Farsi)"
+    }
+  },
+  {
+    "name": "Iraque",
+    "ccn3": "368",
+    "capital": "Baghdad",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/304934",
+    "area": 438317,
+    "population": 40222503,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/iq.svg",
+    "currency": {
+      "IQD": {
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    }
+  },
+  {
+    "name": "Irlanda",
+    "ccn3": "372",
+    "capital": "Dublin",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/62273",
+    "area": 70273,
+    "population": 4994724,
+    "continents": "Europa",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/ie.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    }
+  },
+  {
+    "name": "Islândia",
+    "ccn3": "352",
+    "capital": "Reykjavik",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/299133",
+    "area": 103000,
+    "population": 366425,
+    "continents": "Europa",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/is.svg",
+    "currency": {
+      "ISK": {
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "isl": "Icelandic"
+    }
+  },
+  {
+    "name": "Israel",
+    "ccn3": "376",
+    "capital": "Jerusalem",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/1473946",
+    "area": 20770,
+    "population": 9216900,
+    "continents": "Ásia",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/il.svg",
+    "currency": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    }
+  },
+  {
+    "name": "Itália",
+    "ccn3": "380",
+    "capital": "Rome",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/365331",
+    "area": 301336,
+    "population": 59554023,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/it.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "ita": "Italian"
+    }
+  },
+  {
+    "name": "Jamaica",
+    "ccn3": "388",
+    "capital": "Kingston",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/555017",
+    "area": 10991,
+    "population": 2961161,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/jm.svg",
+    "currency": {
+      "JMD": {
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    }
+  },
+  {
+    "name": "Japão",
+    "ccn3": "392",
+    "capital": "Tokyo",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/382313",
+    "area": 377930,
+    "population": 125836021,
+    "continents": "Ásia",
+    "timezones": "UTC+09:00",
+    "flag": "https://flagcdn.com/jp.svg",
+    "currency": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    },
+    "languages": {
+      "jpn": "Japanese"
+    }
+  },
+  {
+    "name": "Jersey",
+    "ccn3": "832",
+    "capital": "Saint Helier",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/367988",
+    "area": 116,
+    "population": 100800,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/je.svg",
+    "currency": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "JEP": {
+        "name": "Jersey pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nrf": "Jèrriais"
+    }
+  },
+  {
+    "name": "Jordânia",
+    "ccn3": "400",
+    "capital": "Amman",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184818",
+    "area": 89342,
+    "population": 10203140,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/jo.svg",
+    "currency": {
+      "JOD": {
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "ccn3": "296",
+    "capital": "South Tarawa",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571178",
+    "area": 811,
+    "population": 119446,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/ki.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "KID": {
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    }
+  },
+  {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/2088990",
+    "area": 10908,
+    "population": 1775378,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/xk.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    }
+  },
+  {
+    "name": "Kuwait",
+    "ccn3": "414",
+    "capital": "Kuwait City",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/305099",
+    "area": 17818,
+    "population": 4270563,
+    "continents": "Ásia",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/kw.svg",
+    "currency": {
+      "KWD": {
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Laos",
+    "ccn3": "418",
+    "capital": "Vientiane",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/49903",
+    "area": 236800,
+    "population": 7275556,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/la.svg",
+    "currency": {
+      "LAK": {
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    },
+    "languages": {
+      "lao": "Lao"
+    }
+  },
+  {
+    "name": "Lesoto",
+    "ccn3": "426",
+    "capital": "Maseru",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/2093234",
+    "area": 30355,
+    "population": 2142252,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ls.svg",
+    "currency": {
+      "LSL": {
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    }
+  },
+  {
+    "name": "Letónia",
+    "ccn3": "428",
+    "capital": "Riga",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/72594",
+    "area": 64559,
+    "population": 1901548,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/lv.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "lav": "Latvian"
+    }
+  },
+  {
+    "name": "Líbano",
+    "ccn3": "422",
+    "capital": "Beirut",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184843",
+    "area": 10452,
+    "population": 6825442,
+    "continents": "Ásia",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/lb.svg",
+    "currency": {
+      "LBP": {
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Libéria",
+    "ccn3": "430",
+    "capital": "Monrovia",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192780",
+    "area": 111369,
+    "population": 5057677,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/lr.svg",
+    "currency": {
+      "LRD": {
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Líbia",
+    "ccn3": "434",
+    "capital": "Tripoli",
+    "region": "África",
+    "map": "openstreetmap.org/relation/192758",
+    "area": 1759540,
+    "population": 6871287,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ly.svg",
+    "currency": {
+      "LYD": {
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "ccn3": "438",
+    "capital": "Vaduz",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1155955",
+    "area": 160,
+    "population": 38137,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/li.svg",
+    "currency": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "name": "Lituânia",
+    "ccn3": "440",
+    "capital": "Vilnius",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/72596",
+    "area": 65300,
+    "population": 2794700,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/lt.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "lit": "Lithuanian"
+    }
+  },
+  {
+    "name": "Luxemburgo",
+    "ccn3": "442",
+    "capital": "Luxembourg",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335",
+    "area": 2586,
+    "population": 632275,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/lu.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    }
+  },
+  {
+    "name": "Macau",
+    "ccn3": "446",
+    "capital": "None",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/1867188",
+    "area": 30,
+    "population": 649342,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/mo.svg",
+    "currency": {
+      "MOP": {
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    },
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    }
+  },
+  {
+    "name": "Macedónia do Norte",
+    "ccn3": "807",
+    "capital": "Skopje",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/53293",
+    "area": 25713,
+    "population": 2077132,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/mk.svg",
+    "currency": {
+      "MKD": {
+        "name": "denar",
+        "symbol": "den"
+      }
+    },
+    "languages": {
+      "mkd": "Macedonian"
+    }
+  },
+  {
+    "name": "Madagáscar",
+    "ccn3": "450",
+    "capital": "Antananarivo",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/447325",
+    "area": 587041,
+    "population": 27691019,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/mg.svg",
+    "currency": {
+      "MGA": {
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    }
+  },
+  {
+    "name": "Malásia",
+    "ccn3": "458",
+    "capital": "Kuala Lumpur",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/2108121",
+    "area": 330803,
+    "population": 32365998,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/my.svg",
+    "currency": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    }
+  },
+  {
+    "name": "Malawi",
+    "ccn3": "454",
+    "capital": "Lilongwe",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195290",
+    "area": 118484,
+    "population": 19129955,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/mw.svg",
+    "currency": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    }
+  },
+  {
+    "name": "Maldivas",
+    "ccn3": "462",
+    "capital": "Malé",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/536773",
+    "area": 300,
+    "population": 540542,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/mv.svg",
+    "currency": {
+      "MVR": {
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    },
+    "languages": {
+      "div": "Maldivian"
+    }
+  },
+  {
+    "name": "Mali",
+    "ccn3": "466",
+    "capital": "Bamako",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192785",
+    "area": 1240192,
+    "population": 20250834,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/ml.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Malta",
+    "ccn3": "470",
+    "capital": "Valletta",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/365307",
+    "area": 316,
+    "population": 525285,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/mt.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    }
+  },
+  {
+    "name": "Marianas Setentrionais",
+    "ccn3": "580",
+    "capital": "Saipan",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/306004",
+    "area": 464,
+    "population": 57557,
+    "continents": "Oceânia",
+    "timezones": "UTC+10:00",
+    "flag": "https://flagcdn.com/mp.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Marrocos",
+    "ccn3": "504",
+    "capital": "Rabat",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/3630439",
+    "area": 446550,
+    "population": 36910558,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/ma.svg",
+    "currency": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    }
+  },
+  {
+    "name": "Martinica",
+    "ccn3": "474",
+    "capital": "Fort-de-France",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/2473088",
+    "area": 1128,
+    "population": 378243,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/mq.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Maurício",
+    "ccn3": "480",
+    "capital": "Port Louis",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/535828",
+    "area": 2040,
+    "population": 1265740,
+    "continents": "África",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/mu.svg",
+    "currency": {
+      "MUR": {
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    }
+  },
+  {
+    "name": "Mauritânia",
+    "ccn3": "478",
+    "capital": "Nouakchott",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192763",
+    "area": 1030700,
+    "population": 4649660,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/mr.svg",
+    "currency": {
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Mayotte",
+    "ccn3": "175",
+    "capital": "Mamoudzou",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1259885",
+    "area": 374,
+    "population": 226915,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/yt.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "México",
+    "ccn3": "484",
+    "capital": "Mexico City",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/114686",
+    "area": 1964375,
+    "population": 128932753,
+    "continents": "América do Norte",
+    "timezones": "UTC-08:00",
+    "flag": "https://flagcdn.com/mx.svg",
+    "currency": {
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Micronésia",
+    "ccn3": "583",
+    "capital": "Palikir",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571802",
+    "area": 702,
+    "population": 115021,
+    "continents": "Oceânia",
+    "timezones": "UTC+10:00",
+    "flag": "https://flagcdn.com/fm.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Moçambique",
+    "ccn3": "508",
+    "capital": "Maputo",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195273",
+    "area": 801590,
+    "population": 31255435,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/mz.svg",
+    "currency": {
+      "MZN": {
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "Moldávia",
+    "ccn3": "498",
+    "capital": "Chișinău",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/58974",
+    "area": 33846,
+    "population": 2617820,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/md.svg",
+    "currency": {
+      "MDL": {
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    },
+    "languages": {
+      "ron": "Romanian"
+    }
+  },
+  {
+    "name": "Mónaco",
+    "ccn3": "492",
+    "capital": "Monaco",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1124039",
+    "area": 2.02,
+    "population": 39244,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/mc.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Mongólia",
+    "ccn3": "496",
+    "capital": "Ulan Bator",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/161033",
+    "area": 1564110,
+    "population": 3278292,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/mn.svg",
+    "currency": {
+      "MNT": {
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    },
+    "languages": {
+      "mon": "Mongolian"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "ccn3": "499",
+    "capital": "Podgorica",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/53296",
+    "area": 13812,
+    "population": 621718,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/me.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "cnr": "Montenegrin"
+    }
+  },
+  {
+    "name": "Montserrat",
+    "ccn3": "500",
+    "capital": "Plymouth",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/537257",
+    "area": 102,
+    "population": 4922,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/ms.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Myanmar",
+    "ccn3": "104",
+    "capital": "Naypyidaw",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/50371",
+    "area": 676578,
+    "population": 54409794,
+    "continents": "Ásia",
+    "timezones": "UTC+06:30",
+    "flag": "https://flagcdn.com/mm.svg",
+    "currency": {
+      "MMK": {
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    },
+    "languages": {
+      "mya": "Burmese"
+    }
+  },
+  {
+    "name": "Namíbia",
+    "ccn3": "516",
+    "capital": "Windhoek",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195266",
+    "area": 825615,
+    "population": 2540916,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/na.svg",
+    "currency": {
+      "NAD": {
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    }
+  },
+  {
+    "name": "Nauru",
+    "ccn3": "520",
+    "capital": "Yaren",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571804",
+    "area": 21,
+    "population": 10834,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/nr.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    }
+  },
+  {
+    "name": "Nepal",
+    "ccn3": "524",
+    "capital": "Kathmandu",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184633",
+    "area": 147181,
+    "population": 29136808,
+    "continents": "Ásia",
+    "timezones": "UTC+05:45",
+    "flag": "https://flagcdn.com/np.svg",
+    "currency": {
+      "NPR": {
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    },
+    "languages": {
+      "nep": "Nepali"
+    }
+  },
+  {
+    "name": "Nicarágua",
+    "ccn3": "558",
+    "capital": "Managua",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287666",
+    "area": 130373,
+    "population": 6624554,
+    "continents": "América do Norte",
+    "timezones": "UTC-06:00",
+    "flag": "https://flagcdn.com/ni.svg",
+    "currency": {
+      "NIO": {
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Níger",
+    "ccn3": "562",
+    "capital": "Niamey",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192786",
+    "area": 1267000,
+    "population": 24206636,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ne.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Nigéria",
+    "ccn3": "566",
+    "capital": "Abuja",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192787",
+    "area": 923768,
+    "population": 206139587,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ng.svg",
+    "currency": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Niue",
+    "ccn3": "570",
+    "capital": "Alofi",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/1558556",
+    "area": 260,
+    "population": 1470,
+    "continents": "Oceânia",
+    "timezones": "UTC-11:00",
+    "flag": "https://flagcdn.com/nu.svg",
+    "currency": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    }
+  },
+  {
+    "name": "Noruega",
+    "ccn3": "578",
+    "capital": "Oslo",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/2978650",
+    "area": 323802,
+    "population": 5379475,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/no.svg",
+    "currency": {
+      "NOK": {
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    }
+  },
+  {
+    "name": "Nova Caledónia",
+    "ccn3": "540",
+    "capital": "Nouméa",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/3407643",
+    "area": 18575,
+    "population": 271960,
+    "continents": "Oceânia",
+    "timezones": "UTC+11:00",
+    "flag": "https://flagcdn.com/nc.svg",
+    "currency": {
+      "XPF": {
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Nova Zelândia",
+    "ccn3": "554",
+    "capital": "Wellington",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046",
+    "area": 270467,
+    "population": 5084300,
+    "continents": "Oceânia",
+    "timezones": "UTC-11:00",
+    "flag": "https://flagcdn.com/nz.svg",
+    "currency": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    }
+  },
+  {
+    "name": "Omã",
+    "ccn3": "512",
+    "capital": "Muscat",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/305138",
+    "area": 309500,
+    "population": 5106622,
+    "continents": "Ásia",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/om.svg",
+    "currency": {
+      "OMR": {
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Países Baixos Caribenhos",
+    "ccn3": "535",
+    "capital": "Kralendijk",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1216720",
+    "area": 328,
+    "population": 25987,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/bq.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    }
+  },
+  {
+    "name": "Palau",
+    "ccn3": "585",
+    "capital": "Ngerulmud",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/571805",
+    "area": 459,
+    "population": 18092,
+    "continents": "Oceânia",
+    "timezones": "UTC+09:00",
+    "flag": "https://flagcdn.com/pw.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    }
+  },
+  {
+    "name": "Palestina",
+    "ccn3": "275",
+    "capital": "Ramallah",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/1703814",
+    "area": 6220,
+    "population": 4803269,
+    "continents": "Ásia",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ps.svg",
+    "currency": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      "JOD": {
+        "name": "Jordanian dinar",
+        "symbol": "JD"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Panamá",
+    "ccn3": "591",
+    "capital": "Panama City",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287668",
+    "area": 75417,
+    "population": 4314768,
+    "continents": "América do Norte",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/pa.svg",
+    "currency": {
+      "PAB": {
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Papua Nova Guiné",
+    "ccn3": "598",
+    "capital": "Port Moresby",
+    "region": "Oceânia",
+    "map": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+    "area": 462840,
+    "population": 8947027,
+    "continents": "Oceânia",
+    "timezones": "UTC+10:00",
+    "flag": "https://flagcdn.com/pg.svg",
+    "currency": {
+      "PGK": {
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    }
+  },
+  {
+    "name": "Paquistão",
+    "ccn3": "586",
+    "capital": "Islamabad",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/307573",
+    "area": 881912,
+    "population": 220892331,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/pk.svg",
+    "currency": {
+      "PKR": {
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    }
+  },
+  {
+    "name": "Paraguai",
+    "ccn3": "600",
+    "capital": "Asunción",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287077",
+    "area": 406752,
+    "population": 7132530,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/py.svg",
+    "currency": {
+      "PYG": {
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    },
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Perú",
+    "ccn3": "604",
+    "capital": "Lima",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/288247",
+    "area": 1285216,
+    "population": 32971846,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-05:00",
+    "flag": "https://flagcdn.com/pe.svg",
+    "currency": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    },
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Polinésia Francesa",
+    "ccn3": "258",
+    "capital": "Papeetē",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/3412620",
+    "area": 4167,
+    "population": 280904,
+    "continents": "Oceânia",
+    "timezones": "UTC-10:00",
+    "flag": "https://flagcdn.com/pf.svg",
+    "currency": {
+      "XPF": {
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Polónia",
+    "ccn3": "616",
+    "capital": "Warsaw",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/49715",
+    "area": 312679,
+    "population": 37950802,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/pl.svg",
+    "currency": {
+      "PLN": {
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    },
+    "languages": {
+      "pol": "Polish"
+    }
+  },
+  {
+    "name": "Porto Rico",
+    "ccn3": "630",
+    "capital": "San Juan",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/4422604",
+    "area": 8870,
+    "population": 3194034,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/pr.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Portugal",
+    "ccn3": "620",
+    "capital": "Lisbon",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/295480",
+    "area": 92090,
+    "population": 10305564,
+    "continents": "Europa",
+    "timezones": "UTC-01:00",
+    "flag": "https://flagcdn.com/pt.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "Quénia",
+    "ccn3": "404",
+    "capital": "Nairobi",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192798",
+    "area": 580367,
+    "population": 53771300,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/ke.svg",
+    "currency": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "name": "Quirguistão",
+    "ccn3": "417",
+    "capital": "Bishkek",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/178009",
+    "area": 199951,
+    "population": 6591600,
+    "continents": "Ásia",
+    "timezones": "UTC+06:00",
+    "flag": "https://flagcdn.com/kg.svg",
+    "currency": {
+      "KGS": {
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    },
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": "Reino Unido",
+    "ccn3": "826",
+    "capital": "London",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/62149",
+    "area": 242900,
+    "population": 67215293,
+    "continents": "Europa",
+    "timezones": "UTC-08:00",
+    "flag": "https://flagcdn.com/gb.svg",
+    "currency": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "República Centro-Africana",
+    "ccn3": "140",
+    "capital": "Bangui",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192790",
+    "area": 622984,
+    "population": 4829764,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/cf.svg",
+    "currency": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    }
+  },
+  {
+    "name": "República Democrática do Congo",
+    "ccn3": "180",
+    "capital": "Kinshasa",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192795",
+    "area": 2344858,
+    "population": 108407721,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/cd.svg",
+    "currency": {
+      "CDF": {
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "name": "República Dominicana",
+    "ccn3": "214",
+    "capital": "Santo Domingo",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/307828",
+    "area": 48671,
+    "population": 10847904,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/do.svg",
+    "currency": {
+      "DOP": {
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Reunião",
+    "ccn3": "638",
+    "capital": "Saint-Denis",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1785276",
+    "area": 2511,
+    "population": 840974,
+    "continents": "África",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/re.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Roménia",
+    "ccn3": "642",
+    "capital": "Bucharest",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/90689",
+    "area": 238391,
+    "population": 19286123,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ro.svg",
+    "currency": {
+      "RON": {
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    },
+    "languages": {
+      "ron": "Romanian"
+    }
+  },
+  {
+    "name": "Ruanda",
+    "ccn3": "646",
+    "capital": "Kigali",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/171496",
+    "area": 26338,
+    "population": 12952209,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/rw.svg",
+    "currency": {
+      "RWF": {
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    }
+  },
+  {
+    "name": "Rússia",
+    "ccn3": "643",
+    "capital": "Moscow",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29",
+    "area": 17098242,
+    "population": 144104080,
+    "continents": "Europa",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/ru.svg",
+    "currency": {
+      "RUB": {
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    },
+    "languages": {
+      "rus": "Russian"
+    }
+  },
+  {
+    "name": "Saara Ocidental",
+    "ccn3": "732",
+    "capital": "El Aaiún",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/5441968",
+    "area": 266000,
+    "population": 510713,
+    "continents": "África",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/eh.svg",
+    "currency": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      },
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Saint-Pierre e Miquelon",
+    "ccn3": "666",
+    "capital": "Saint-Pierre",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/3406826",
+    "area": 242,
+    "population": 6069,
+    "continents": "América do Norte",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/pm.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Samoa",
+    "ccn3": "882",
+    "capital": "Apia",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/1872673",
+    "area": 2842,
+    "population": 198410,
+    "continents": "Oceânia",
+    "timezones": "UTC+13:00",
+    "flag": "https://flagcdn.com/ws.svg",
+    "currency": {
+      "WST": {
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    }
+  },
+  {
+    "name": "Samoa Americana",
+    "ccn3": "016",
+    "capital": "Pago Pago",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2177187",
+    "area": 199,
+    "population": 55197,
+    "continents": "Oceânia",
+    "timezones": "UTC-11:00",
+    "flag": "https://flagcdn.com/as.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    }
+  },
+  {
+    "name": "San Marino",
+    "ccn3": "674",
+    "capital": "City of San Marino",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/54624",
+    "area": 61,
+    "population": 33938,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/sm.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "ita": "Italian"
+    }
+  },
+  {
+    "name": "Santa Helena, Ascensão e Tristão da Cunha",
+    "ccn3": "654",
+    "capital": "Jamestown",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120",
+    "area": 394,
+    "population": 53192,
+    "continents": "África",
+    "timezones": "UTC+00:00",
+    "flag": "https://flagcdn.com/sh.svg",
+    "currency": {
+      "GBP": {
+        "name": "Pound sterling",
+        "symbol": "£"
+      },
+      "SHP": {
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Santa Lúcia",
+    "ccn3": "662",
+    "capital": "Castries",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/550728",
+    "area": 616,
+    "population": 183629,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/lc.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "São Bartolomeu",
+    "ccn3": "652",
+    "capital": "Gustavia",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/7552779",
+    "area": 21,
+    "population": 4255,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/bl.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "São Cristóvão e Nevis",
+    "ccn3": "659",
+    "capital": "Basseterre",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/536899",
+    "area": 261,
+    "population": 53192,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/kn.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "São Martinho",
+    "ccn3": "534",
+    "capital": "Philipsburg",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/1231790",
+    "area": 34,
+    "population": 40812,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/sx.svg",
+    "currency": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    }
+  },
+  {
+    "name": "São Martinho",
+    "ccn3": "663",
+    "capital": "Marigot",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/63064",
+    "area": 53,
+    "population": 38659,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/mf.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "São Tomé e Príncipe",
+    "ccn3": "678",
+    "capital": "São Tomé",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/535880",
+    "area": 964,
+    "population": 219161,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/st.svg",
+    "currency": {
+      "STN": {
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    },
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "name": "São Vincente e Granadinas",
+    "ccn3": "670",
+    "capital": "Kingstown",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/550725",
+    "area": 389,
+    "population": 110947,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/vc.svg",
+    "currency": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Seicheles",
+    "ccn3": "690",
+    "capital": "Victoria",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/536765",
+    "area": 452,
+    "population": 98462,
+    "continents": "África",
+    "timezones": "UTC+04:00",
+    "flag": "https://flagcdn.com/sc.svg",
+    "currency": {
+      "SCR": {
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    },
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Senegal",
+    "ccn3": "686",
+    "capital": "Dakar",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192775",
+    "area": 196722,
+    "population": 16743930,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/sn.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Serra Leoa",
+    "ccn3": "694",
+    "capital": "Freetown",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192777",
+    "area": 71740,
+    "population": 7976985,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/sl.svg",
+    "currency": {
+      "SLL": {
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Sérvia",
+    "ccn3": "688",
+    "capital": "Belgrade",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/1741311",
+    "area": 88361,
+    "population": 6908224,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/rs.svg",
+    "currency": {
+      "RSD": {
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    },
+    "languages": {
+      "srp": "Serbian"
+    }
+  },
+  {
+    "name": "Singapura",
+    "ccn3": "702",
+    "capital": "Singapore",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/536780",
+    "area": 710,
+    "population": 5685807,
+    "continents": "Ásia",
+    "timezones": "UTC+08:00",
+    "flag": "https://flagcdn.com/sg.svg",
+    "currency": {
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "name": "Síria",
+    "ccn3": "760",
+    "capital": "Damascus",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/184840",
+    "area": 185180,
+    "population": 17500657,
+    "continents": "Ásia",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/sy.svg",
+    "currency": {
+      "SYP": {
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Somália",
+    "ccn3": "706",
+    "capital": "Mogadishu",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192799",
+    "area": 637657,
+    "population": 15893219,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/so.svg",
+    "currency": {
+      "SOS": {
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "ccn3": "144",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/536807",
+    "area": 65610,
+    "population": 21919000,
+    "continents": "Ásia",
+    "timezones": "UTC+05:30",
+    "flag": "https://flagcdn.com/lk.svg",
+    "currency": {
+      "LKR": {
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs  රු"
+      }
+    },
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "name": "Suazilândia",
+    "ccn3": "748",
+    "capital": "Mbabane",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/88210",
+    "area": 17364,
+    "population": 1160164,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/sz.svg",
+    "currency": {
+      "SZL": {
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    }
+  },
+  {
+    "name": "Sudão",
+    "ccn3": "729",
+    "capital": "Khartoum",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192789",
+    "area": 1886068,
+    "population": 43849269,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/sd.svg",
+    "currency": {
+      "SDG": {
+        "name": "Sudanese pound",
+        "symbol": "ج.س"
+      }
+    },
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Sudão do Sul",
+    "ccn3": "728",
+    "capital": "Juba",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1656678",
+    "area": 619745,
+    "population": 11193729,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/ss.svg",
+    "currency": {
+      "SSP": {
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Suécia",
+    "ccn3": "752",
+    "capital": "Stockholm",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/52822",
+    "area": 450295,
+    "population": 10353442,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/se.svg",
+    "currency": {
+      "SEK": {
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    },
+    "languages": {
+      "swe": "Swedish"
+    }
+  },
+  {
+    "name": "Suíça",
+    "ccn3": "756",
+    "capital": "Bern",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/51701",
+    "area": 41284,
+    "population": 8654622,
+    "continents": "Europa",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/ch.svg",
+    "currency": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "Fr."
+      }
+    },
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    }
+  },
+  {
+    "name": "Suriname",
+    "ccn3": "740",
+    "capital": "Paramaribo",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287082",
+    "area": 163820,
+    "population": 586634,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/sr.svg",
+    "currency": {
+      "SRD": {
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "nld": "Dutch"
+    }
+  },
+  {
+    "name": "Tailândia",
+    "ccn3": "764",
+    "capital": "Bangkok",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/2067731",
+    "area": 513120,
+    "population": 69799978,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/th.svg",
+    "currency": {
+      "THB": {
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    },
+    "languages": {
+      "tha": "Thai"
+    }
+  },
+  {
+    "name": "Tajiquistão",
+    "ccn3": "762",
+    "capital": "Dushanbe",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/214626",
+    "area": 143100,
+    "population": 9537642,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/tj.svg",
+    "currency": {
+      "TJS": {
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    },
+    "languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    }
+  },
+  {
+    "name": "Tanzânia",
+    "ccn3": "834",
+    "capital": "Dodoma",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195270",
+    "area": 945087,
+    "population": 59734213,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/tz.svg",
+    "currency": {
+      "TZS": {
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "name": "Terras Austrais e Antárticas Francesas",
+    "ccn3": "260",
+    "capital": "Port-aux-Français",
+    "region": "Antártico",
+    "map": "https://www.openstreetmap.org/relation/2186658",
+    "area": 7747,
+    "population": 400,
+    "continents": "Antártica",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/tf.svg",
+    "currency": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Território Britânico do Oceano Índico",
+    "ccn3": "086",
+    "capital": "Diego Garcia",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/1993867",
+    "area": 60,
+    "population": 3000,
+    "continents": "Ásia",
+    "timezones": "UTC+06:00",
+    "flag": "https://flagcdn.com/io.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "ccn3": "626",
+    "capital": "Dili",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/305142",
+    "area": 14874,
+    "population": 1318442,
+    "continents": "Oceânia",
+    "timezones": "UTC+09:00",
+    "flag": "https://flagcdn.com/tl.svg",
+    "currency": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    }
+  },
+  {
+    "name": "Togo",
+    "ccn3": "768",
+    "capital": "Lomé",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192782",
+    "area": 56785,
+    "population": 8278737,
+    "continents": "África",
+    "timezones": "UTC",
+    "flag": "https://flagcdn.com/tg.svg",
+    "currency": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Tokelau",
+    "ccn3": "772",
+    "capital": "Fakaofo",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2186600",
+    "area": 12,
+    "population": 1411,
+    "continents": "Oceânia",
+    "timezones": "UTC+13:00",
+    "flag": "https://flagcdn.com/tk.svg",
+    "currency": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan",
+      "tkl": "Tokelauan"
+    }
+  },
+  {
+    "name": "Tonga",
+    "ccn3": "776",
+    "capital": "Nuku'alofa",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2186665",
+    "area": 747,
+    "population": 105697,
+    "continents": "Oceânia",
+    "timezones": "UTC+13:00",
+    "flag": "https://flagcdn.com/to.svg",
+    "currency": {
+      "TOP": {
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    }
+  },
+  {
+    "name": "Trinidade e Tobago",
+    "ccn3": "780",
+    "capital": "Port of Spain",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/555717",
+    "area": 5130,
+    "population": 1399491,
+    "continents": "América do Norte",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/tt.svg",
+    "currency": {
+      "TTD": {
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Tunísia",
+    "ccn3": "788",
+    "capital": "Tunis",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192757",
+    "area": 163610,
+    "population": 11818618,
+    "continents": "África",
+    "timezones": "UTC+01:00",
+    "flag": "https://flagcdn.com/tn.svg",
+    "currency": {
+      "TND": {
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    },
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "name": "Turquemenistão",
+    "ccn3": "795",
+    "capital": "Ashgabat",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/223026",
+    "area": 488100,
+    "population": 6031187,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/tm.svg",
+    "currency": {
+      "TMT": {
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    },
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    }
+  },
+  {
+    "name": "Turquia",
+    "ccn3": "792",
+    "capital": "Ankara",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/174737",
+    "area": 783562,
+    "population": 84339067,
+    "continents": "Europa",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/tr.svg",
+    "currency": {
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "languages": {
+      "tur": "Turkish"
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "ccn3": "798",
+    "capital": "Funafuti",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2177266",
+    "area": 26,
+    "population": 11792,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/tv.svg",
+    "currency": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "TVD": {
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    }
+  },
+  {
+    "name": "Ucrânia",
+    "ccn3": "804",
+    "capital": "Kyiv",
+    "region": "Europa",
+    "map": "https://www.openstreetmap.org/relation/60199",
+    "area": 603500,
+    "population": 44134693,
+    "continents": "Europa",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/ua.svg",
+    "currency": {
+      "UAH": {
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "languages": {
+      "ukr": "Ukrainian"
+    }
+  },
+  {
+    "name": "Uganda",
+    "ccn3": "800",
+    "capital": "Kampala",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/192796",
+    "area": 241550,
+    "population": 45741000,
+    "continents": "África",
+    "timezones": "UTC+03:00",
+    "flag": "https://flagcdn.com/ug.svg",
+    "currency": {
+      "UGX": {
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "name": "Uruguai",
+    "ccn3": "858",
+    "capital": "Montevideo",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/287072",
+    "area": 181034,
+    "population": 3473727,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-03:00",
+    "flag": "https://flagcdn.com/uy.svg",
+    "currency": {
+      "UYU": {
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Uzbequistão",
+    "ccn3": "860",
+    "capital": "Tashkent",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/196240",
+    "area": 447400,
+    "population": 34232050,
+    "continents": "Ásia",
+    "timezones": "UTC+05:00",
+    "flag": "https://flagcdn.com/uz.svg",
+    "currency": {
+      "UZS": {
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    },
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "ccn3": "548",
+    "capital": "Port Vila",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/2177246",
+    "area": 12189,
+    "population": 307150,
+    "continents": "Oceânia",
+    "timezones": "UTC+11:00",
+    "flag": "https://flagcdn.com/vu.svg",
+    "currency": {
+      "VUV": {
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    },
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Venezuela",
+    "ccn3": "862",
+    "capital": "Caracas",
+    "region": "Américas",
+    "map": "https://www.openstreetmap.org/relation/272644",
+    "area": 916445,
+    "population": 28435943,
+    "continents": "Ámérica do Sul",
+    "timezones": "UTC-04:00",
+    "flag": "https://flagcdn.com/ve.svg",
+    "currency": {
+      "VES": {
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    },
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "name": "Vietname",
+    "ccn3": "704",
+    "capital": "Hanoi",
+    "region": "Ásia",
+    "map": "https://www.openstreetmap.org/relation/49915",
+    "area": 331212,
+    "population": 97338583,
+    "continents": "Ásia",
+    "timezones": "UTC+07:00",
+    "flag": "https://flagcdn.com/vn.svg",
+    "currency": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "languages": {
+      "vie": "Vietnamese"
+    }
+  },
+  {
+    "name": "Wallis e Futuna",
+    "ccn3": "876",
+    "capital": "Mata-Utu",
+    "region": "Oceânia",
+    "map": "https://www.openstreetmap.org/relation/3412448",
+    "area": 142,
+    "population": 11750,
+    "continents": "Oceânia",
+    "timezones": "UTC+12:00",
+    "flag": "https://flagcdn.com/wf.svg",
+    "currency": {
+      "XPF": {
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    },
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "name": "Zâmbia",
+    "ccn3": "894",
+    "capital": "Lusaka",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195271",
+    "area": 752612,
+    "population": 18383956,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/zm.svg",
+    "currency": {
+      "ZMW": {
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    },
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "ccn3": "716",
+    "capital": "Harare",
+    "region": "África",
+    "map": "https://www.openstreetmap.org/relation/195272",
+    "area": 390757,
+    "population": 14862927,
+    "continents": "África",
+    "timezones": "UTC+02:00",
+    "flag": "https://flagcdn.com/zw.svg",
+    "currency": {
+      "ZWL": {
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    },
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    }
+  }
+]
