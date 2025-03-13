@@ -49,6 +49,15 @@ class FavoritesController {
 
         return response.json(favorites);
     }
+
+    async searchByName(request, response) {
+        const {id: user_id} = request.user;
+        const {name} = request.params;
+
+        const favorites = await knex("favorites").where({user_id}).where("country_name", "like", `%${name}%`);
+
+        return response.json(favorites);
+    }
 }
 
 module.exports = FavoritesController;
