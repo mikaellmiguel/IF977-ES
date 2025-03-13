@@ -58,6 +58,21 @@ class FavoritesController {
 
         return response.json(favorites);
     }
+
+    async delete(request, response) {
+        const {id: user_id} = request.user;
+        const {ccn3} = request.params;
+
+        const checkInFavorites = await knex("favorites").where({user_id, ccn3}).first();
+
+        if(!checkInFavorites) {
+            throw new AppError("País não favoritado");
+        }
+
+        await knex("favorites").where({user_id, ccn3}).delete();
+
+        return response.status(200).json();
+    }
 }
 
 module.exports = FavoritesController;
