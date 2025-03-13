@@ -5,10 +5,11 @@ import { Container, Content, CountryList } from "./styles";
 import { api } from "../../services/api";
 import { useState } from "react";
 import { useEffect } from "react";
+import { useNavigate } from "react-router";
 
 export function Homepage() {
 
-    
+    const navigate = useNavigate();
     const [countries, setCountries] = useState([]);
     const [search, setSearch] = useState("");
 
@@ -34,7 +35,7 @@ export function Homepage() {
                 <CountryList>
                     {countries && countries.map((country, index) => (
 
-                        <CountryCard key={index} name={country.name} flag={country.flag}/>
+                        <CountryCard key={index} name={country.name} flag={country.flag}  onClick={() => navigate(`/country/${country.ccn3}`)}/>
 
                     ))}
                 </CountryList>
