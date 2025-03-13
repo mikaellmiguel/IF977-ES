@@ -85,7 +85,7 @@ Após a realização da instalação, para utilizar o software siga esse passo a
 **Para o backend e frontend:** Navegue até a pasta backend/ ou frontend/ e inicie os servidores com o comando abaixo:
 
 ```bash
-npm start
+npm run dev
 ```
 
 
@@ -133,7 +133,7 @@ IF977-ES/
 │   │   ├── services/        # Funções para consumir APIs
 │   │   ├── styles/          # Arquivos de estilo
 │   │   ├── utils/           # Funções utilitárias
-│   │   ├── App.js           # Componente principal da aplicação
+│   │   ├── main.js           # Componente principal da aplicação
 │   │   └── index.js         # Ponto de entrada do React (renderiza o App)
 │   ├── .gitignore           # Arquivos e pastas a serem ignorados pelo git
 │   ├── package.json         # Dependências e scripts do projeto

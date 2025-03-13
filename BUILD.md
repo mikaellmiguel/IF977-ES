@@ -42,23 +42,22 @@ cp .env.example .env
 Edite o arquivo .env conforme necessário para o seu ambiente.
 
 ### 4. Executar o Projeto
-Por enquanto, o projeto não está totalmente implementado, mas assim que as funcionalidades forem adicionadas, o comando para executar o projeto será algo como:
+Por enquanto, o projeto não está totalmente implementado, diante disso, o comando para execução do ambiente de desenvolvimento é:
 
 Para o Backend:
 ```bash
-npm start
+npm run dev
 ```
 Para o Frontend:
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Status do Projeto
-Este projeto está atualmente em fase inicial de desenvolvimento. O código está sendo estruturado e as funcionalidades principais serão implementadas em breve. As instruções de build serão atualizadas conforme o progresso do desenvolvimento.
+Este projeto já avançou além da fase inicial de desenvolvimento. O código está estruturado e as funcionalidades principais foram implementadas. As instruções de build estão atualizadas conforme o progresso do desenvolvimento.
 
 ## Planejamento Futuro
 As seguintes funcionalidades e etapas estão previstas:
-- Implementação do código-fonte e estruturação dos módulos.
 - Testes automatizados.
 - Documentação detalhada.
