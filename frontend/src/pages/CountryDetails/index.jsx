@@ -47,7 +47,7 @@ export function CountryDetails() {
       <MainContent>
         <SectionTitle>Descrição Geral</SectionTitle>
         <Description>
-          Localizado em [continente/região], este território abrange uma área de aproximadamente
+          (EM DESENVOLVIMENTO) Localizado em [continente/região], este território abrange uma área de aproximadamente
           [área em km²] e possui uma população estimada de [número de habitantes]. Sua capital é
           [nome da capital], e o idioma oficial é [idioma]. Conhecido por [característica notável],
           sua economia é impulsionada por setores como [principais setores econômicos].
@@ -67,13 +67,14 @@ export function CountryDetails() {
           <GridItem>
             <SectionTitle>Fronteiras</SectionTitle>
             <ul>
-              <li>Nome País</li>
-              <li>Nome País</li>
-              <li>Nome País</li>
+              <li>Em Desenvolvimento</li>
+              <li>Em Desenvolvimento</li>
+              <li>Em Desenvolvimento</li>
             </ul>
           </GridItem>
           <GridItem>
             <SectionTitle>Mapa</SectionTitle>
+            <p>Em Desenvolvimento</p>
           </GridItem>
         </Grid>
       </MainContent>
