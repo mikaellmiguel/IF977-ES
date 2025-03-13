@@ -15,7 +15,7 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/IF977-ES.git
+    git clone https://github.com/mikaellmiguel/IF977-ES
     ```
 
 2. Navegue até o diretório do backend:
