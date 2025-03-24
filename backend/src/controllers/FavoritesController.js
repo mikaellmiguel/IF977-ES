@@ -5,7 +5,7 @@ const getDataCountries = require("../utils/getDataCountries");
 class FavoritesController {
     async create(request, response) {
         const {id: user_id} = request.user;
-        const {ccn3} = request.body;
+        const {ccn3} = request.params;
 
         if(!ccn3) {
             throw new AppError("Informe o CCN3 do país");
@@ -48,6 +48,19 @@ class FavoritesController {
         const favorites = await knex("favorites").where({user_id})
 
         return response.json(favorites);
+    }
+
+    async show(request, response) {
+        const {id: user_id} = request.user;
+        const {ccn3} = request.params;
+
+        const favorite = await knex("favorites").where({user_id, ccn3}).first();
+
+        if(!favorite) {
+            throw new AppError("País não favoritado");
+        }
+
+        return response.json(favorite);
     }
 
     async searchByName(request, response) {
