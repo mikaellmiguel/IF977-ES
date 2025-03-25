@@ -1,5 +1,6 @@
 const AppError = require('../utils/AppError');
 const getDataCountries = require('../utils/getDataCountries');
+const getSummaryCountry = require('../utils/getSummaryCountry');
 
 class CountriesController {
 
@@ -22,7 +23,18 @@ class CountriesController {
             throw new AppError("País não encontrado");
         }
 
-        return response.json(country);
+        // Integração com API da Wikipedia
+        let summary = "";
+        try {
+            summary = await getSummaryCountry(country.name);
+        } catch {
+            summary = "Informações não disponíveis";
+        }
+
+        return response.json({
+            ...country,
+            summary
+        });
     }
 
     async findByCountryName(request, response) {
