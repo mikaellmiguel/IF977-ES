@@ -21,6 +21,7 @@ export function CountryDetails() {
     async function getCountry() {
       console.log(ccn3);
       const response = await api.get(`/countries/${ccn3}`);
+      console.log(response.data);
       setCountry(response.data);
     }
     getCountry();
@@ -67,10 +68,7 @@ export function CountryDetails() {
       <MainContent>
         <SectionTitle>Descrição Geral</SectionTitle>
         <Description>
-          (EM DESENVOLVIMENTO) Localizado em [continente/região], este território abrange uma área de aproximadamente
-          [área em km²] e possui uma população estimada de [número de habitantes]. Sua capital é
-          [nome da capital], e o idioma oficial é [idioma]. Conhecido por [característica notável],
-          sua economia é impulsionada por setores como [principais setores econômicos].
+          {country.summary || "Informações não disponíveis"}
         </Description>
 
         <Grid>
