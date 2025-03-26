@@ -8,6 +8,7 @@ import { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { api } from "../../services/api";
+import { OSMMap } from "../../components/OSMMap";
 
 
 export function CountryDetails() {
@@ -19,9 +20,7 @@ export function CountryDetails() {
   
   useEffect(() => {
     async function getCountry() {
-      console.log(ccn3);
       const response = await api.get(`/countries/${ccn3}`);
-      console.log(response.data);
       setCountry(response.data);
     }
     getCountry();
@@ -81,20 +80,8 @@ export function CountryDetails() {
             </ul>
           </GridItem>
           <GridItem>
-            <SectionTitle>Fronteiras</SectionTitle>
-            <ul>
-              {country.borders && country.borders.length > 0 ? (
-                country.borders.map((border, index) => (
-                  <li key={index}>{border}</li>
-                ))
-              ) : (
-                <li>Sem fronteiras</li>
-              )}
-            </ul>
-          </GridItem>
-          <GridItem>
             <SectionTitle>Mapa</SectionTitle>
-            <p>Em Desenvolvimento</p>
+            <OSMMap osmUrl={country.map} />
           </GridItem>
         </Grid>
       </MainContent>
