@@ -3,7 +3,7 @@ import { SideBar } from "../../components/SideBar";
 import { Container, Content, Form, Options, ModalContent, StyledModal, ModalActions} from "./styles";
 import { Button } from "../../components/Button";
 import { FaBucket } from "react-icons/fa6";
-import { FaSave } from "react-icons/fa";
+import { FaSave, FaKey } from "react-icons/fa";
 import { useState } from "react";
 import { api } from "../../services/api";
 import { toast } from "react-toastify";
@@ -17,10 +17,19 @@ export function Profile() {
     const user = JSON.parse(localStorage.getItem("@Geomundo:user"));
     const [name, setName] = useState(user.name);
     const [email, setEmail] = useState(user.email);
-    const [isModalOpen, setIsModalOpen] = useState(false);
-    const [password, setPassword] = useState("");
-
     const navigate = useNavigate();
+    
+    // Modals state
+    const [isDeleteModalOpen, setIsDeleteModalOpen] = useState(false);
+    const [isPasswordModalOpen, setIsPasswordModalOpen] = useState(false);
+    
+    // Delete account modal state
+    const [deletePassword, setDeletePassword] = useState("");
+    
+    // Change password modal state
+    const [currentPassword, setCurrentPassword] = useState("");
+    const [newPassword, setNewPassword] = useState("");
+    const [confirmNewPassword, setConfirmNewPassword] = useState("");
 
     async function handleSaveChanges() {
         if(!validarEmail(email)) {
@@ -45,15 +54,48 @@ export function Profile() {
     async function handleDeleteAccount() {
         try {
             await api.delete(`users/`, { 
-                data: { password } 
+                data: { password: deletePassword } 
             });
             localStorage.removeItem("@Geomundo:user");
             localStorage.removeItem("@Geomundo:token");
             toast.success("Conta deletada com sucesso");
             navigate("/");
-            setIsModalOpen(false);
+            setIsDeleteModalOpen(false);
         } catch {
             toast.error("Erro ao deletar conta. Verifique sua senha.");
+        }
+    }
+
+    async function handleChangePassword() {
+        if (newPassword !== confirmNewPassword) {
+            toast.error("Senhas não coincidem");
+            return;
+        }
+
+        const strongPasswordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+
+        if (!strongPasswordRegex.test(newPassword)) {
+            toast.error("A senha deve ter no mínimo 8 caracteres, incluindo letra maiúscula, minúscula, número e caractere especial");
+            return;
+        }
+        
+        try {
+            await api.put(`users/password`, {
+                currentPassword,
+                newPassword
+            });
+            
+            user.password = newPassword;
+            localStorage.setItem("@Geomundo:user", JSON.stringify(user));
+            toast.success("Senha atualizada com sucesso");
+            setIsPasswordModalOpen(false);
+
+
+            setCurrentPassword("");
+            setNewPassword("");
+            setConfirmNewPassword("");
+        } catch  {
+            toast.error("Erro ao atualizar senha. Verifique seus dados.");
         }
     }
     
@@ -81,16 +123,18 @@ export function Profile() {
                     <Button onClick={handleSaveChanges}>
                         <FaSave/> Salvar Alterações
                     </Button>
-                    <Button>Alterar Senha de Acesso</Button>
-                    <Button onClick={() => setIsModalOpen(true)}>
+                    <Button onClick={() => setIsPasswordModalOpen(true)}>
+                        <FaKey /> Alterar Senha de Acesso
+                    </Button>
+                    <Button onClick={() => setIsDeleteModalOpen(true)}>
                         <FaBucket /> Deletar Conta
                     </Button>
                 </Options>
             </Content>
 
             <StyledModal
-                isOpen={isModalOpen}
-                onRequestClose={() => setIsModalOpen(false)}
+                isOpen={isDeleteModalOpen}
+                onRequestClose={() => setIsDeleteModalOpen(false)}
                 contentLabel="Confirmar Exclusão de Conta"
             >
                 <ModalContent>
@@ -100,12 +144,12 @@ export function Profile() {
                         type="password" 
                         placeholder="Senha" 
                         label="Senha" 
-                        value={password}
-                        onChange={event => setPassword(event.target.value)}
+                        value={deletePassword}
+                        onChange={event => setDeletePassword(event.target.value)}
                     />
                     <ModalActions>
                         <Button 
-                            onClick={() => setIsModalOpen(false)}
+                            onClick={() => setIsDeleteModalOpen(false)}
                             style={{ backgroundColor: '#f0f0f0', color: 'black' }}
                         >
                             Cancelar
@@ -115,6 +159,52 @@ export function Profile() {
                             style={{ backgroundColor: 'red' }}
                         >
                             Confirmar Exclusão
+                        </Button>
+                    </ModalActions>
+                </ModalContent>
+            </StyledModal>
+
+
+            <StyledModal
+                isOpen={isPasswordModalOpen}
+                onRequestClose={() => setIsPasswordModalOpen(false)}
+                contentLabel="Alterar Senha"
+            >
+                <ModalContent>
+                    <h2>Alterar Senha de Acesso</h2>
+                    <Input 
+                        type="password" 
+                        placeholder="Senha Atual" 
+                        label="Senha Atual" 
+                        value={currentPassword}
+                        onChange={event => setCurrentPassword(event.target.value)}
+                    />
+                    <Input 
+                        type="password" 
+                        placeholder="Nova Senha" 
+                        label="Nova Senha" 
+                        value={newPassword}
+                        onChange={event => setNewPassword(event.target.value)}
+                    />
+                    <Input 
+                        type="password" 
+                        placeholder="Confirmar Nova Senha" 
+                        label="Confirmar Nova Senha" 
+                        value={confirmNewPassword}
+                        onChange={event => setConfirmNewPassword(event.target.value)}
+                    />
+                    <ModalActions>
+                        <Button 
+                            onClick={() => setIsPasswordModalOpen(false)}
+                            style={{ backgroundColor: '#f0f0f0', color: 'black' }}
+                        >
+                            Cancelar
+                        </Button>
+                        <Button 
+                            onClick={handleChangePassword}
+                            style={{ backgroundColor: 'green' }}
+                        >
+                            Confirmar
                         </Button>
                     </ModalActions>
                 </ModalContent>
