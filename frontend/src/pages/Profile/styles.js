@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Modal from "react-modal";
 
 export const Container = styled.div`
     display: flex;
@@ -29,4 +30,31 @@ export const Options = styled.div`
     justify-content: center;
     margin-top: 1rem;
     flex-direction: column;
+`;
+
+// Styled Modal Component
+export const StyledModal = styled(Modal)`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 40vw;
+  outline: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+`;
+
+export const ModalContent = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+`;
+
+export const ModalActions = styled.div`
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
 `;
